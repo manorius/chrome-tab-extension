@@ -1,0 +1,1 @@
+window.location.href = "https://feedly.com/i/my/explore";
